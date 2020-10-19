@@ -1,0 +1,7 @@
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_xml\home_work_c_sharp_xml\obj\Debug\home_work_c_sharp_xml.csprojAssemblyReference.cache
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_xml\home_work_c_sharp_xml\obj\Debug\home_work_c_sharp_xml.csproj.CoreCompileInputs.cache
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_xml\home_work_c_sharp_xml\bin\Debug\home_work_c_sharp_xml.exe.config
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_xml\home_work_c_sharp_xml\bin\Debug\home_work_c_sharp_xml.exe
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_xml\home_work_c_sharp_xml\bin\Debug\home_work_c_sharp_xml.pdb
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_xml\home_work_c_sharp_xml\obj\Debug\home_work_c_sharp_xml.exe
+C:\Users\Kolotyuk\source\repos\home_work_c_sharp_xml\home_work_c_sharp_xml\obj\Debug\home_work_c_sharp_xml.pdb
